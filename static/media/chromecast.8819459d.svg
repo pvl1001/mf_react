@@ -1,8 +1,0 @@
-<svg id="Page-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="ic_cast_black_24dp">
-    <g id="ic_remove_circle_white_24dp">
-      <path id="cast" d="M1,18v3H4a3,3,0,0,0-3-3Zm0-4v2a5,5,0,0,1,5,5H8a7,7,0,0,0-7-7Zm0-4v2a9,9,0,0,1,9,9h2A11,11,0,0,0,1,10ZM21,3H3A2.006,2.006,0,0,0,1,5V8H3V5H21V19H14v2h7a2.006,2.006,0,0,0,2-2V5a2.006,2.006,0,0,0-2-2Z" fill-rule="evenodd"/>
-      <rect id="bounds" width="24" height="24" fill="none"/>
-    </g>
-  </g>
-</svg>
